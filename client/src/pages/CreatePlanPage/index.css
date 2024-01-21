@@ -1,0 +1,32 @@
+
+
+.create-plan{
+    font-size: x-large;
+    padding: 2em;
+    display: flex;
+    flex-direction: row;
+
+}
+
+.plan-guide-info{
+    display: flex;
+    flex-direction: column;
+    width: 35%; 
+}
+
+.create-plan-form-section{
+    width: 65%; 
+    margin-left: 2em;
+    background-color: #f2f2f2;
+    /* padding:2em; */
+}
+
+.create-form{
+    margin-top: 2em;
+}
+.time-section{
+    display: flex; 
+    flex-direction:  row;
+    padding:2em;
+       /* background-color: #5228f5; */
+}
